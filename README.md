@@ -34,8 +34,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [x] List anything else that you can get done to improve the app!
--Player receives an alert indicating how many strikes they have after they make a mistake.
+- [x] Player receives an alert indicating how many strikes they have after they make a mistake.
 
 ## Video Walkthrough (GIF)
 
