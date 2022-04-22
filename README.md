@@ -45,7 +45,14 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
+[https://ezgif.com/help/gif-sound
+https://www.w3schools.com/tags/tag_img.asp
+https://www.youtube.com/watch?v=PvUexC0-D2s
+https://www.youtube.com/watch?v=8ELbIR67-cQ&list=PLrT2tZ9JRrf6oUda8qqSMwrJWn-SM-BQT&index=6
+https://programminghead.com/how-to-play-audio-in-html-using-javascript/
+https://stackoverflow.com/questions/5836833/create-an-array-with-random-values
+https://developer.mozilla.org/en-US/docs/web/javascript/reference/global_objects/math/random
+]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 [YOUR ANSWER HERE]
