@@ -42,7 +42,13 @@ button {
     background: lightyellow;
 }
 
+#button5 {
+    background: lightgray;
+}
 
+#button6 {
+    background: orange;
+}
 
 #button1:active, #button1.lit {
     background:green;
@@ -60,3 +66,10 @@ button {
     background:yellow;
 }
 
+#button5:active, #button5.lit {
+    background:gray;
+}
+
+#button6:active, #button6.lit {
+    background:darkorange;
+}
